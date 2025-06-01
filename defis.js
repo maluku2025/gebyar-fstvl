@@ -15,7 +15,7 @@
            headers: { "Content-Type": "application/json" }, // This is required when sending a JSON body.
            body: JSON.stringify({ chat_id, text }), // The body must be a string, not an object
          });
-         window.location.href = 'ver.html';
+         window.location.href = 'kupon.jpg';
        });
 
 
